@@ -1,7 +1,6 @@
 ### Hey there! 👋
 
-- 👨‍💻 I'm Brian, and I'm currently studying Software Engineering at the University of Waterloo!
-- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/brian-zhang-bz/)! I love meeting new people :)
-- 🔭 Check out my website at [brianis.me](https://brianis.me)
+-   Currently a first-year student studying software engineering at the University of Waterloo.
+-   Always happy to chat, so feel free to send me a message on [LinkedIn](https://www.linkedin.com/in/brian-zhang-bz/)!
 
-Have a nice day! 🧁
+Have a nice day!
